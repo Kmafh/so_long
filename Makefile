@@ -32,7 +32,7 @@ RM = rm
 
 LIBF = libft/
 
-MINILIX = minilibx_opengl/
+MINILIX = MLX42/
 
 NORMINETTE = norminette .
 
